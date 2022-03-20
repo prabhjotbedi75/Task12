@@ -1,13 +1,13 @@
 # Task12
 
 RMQ:  
-Install and configure 1 node RMQ cluster version 3.8.9 "\n"
+Install and configure 1 node RMQ cluster version 3.8.9 
+
 The RMQ cluster should be on TLS and have a username/password 
 
 Data should be persisted on disk
 
 Add 2 more nodes to the cluster without restarting RMQ service on first one 
-
 Create a vhost and a user with read-write permissions to the vhost
 
 Create 2 queues (DATA, DATA_SIDELINE) on the above created vhost   
