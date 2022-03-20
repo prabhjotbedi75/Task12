@@ -1,7 +1,6 @@
 # Task12
 
 RMQ:  
-
 Install and configure 1 node RMQ cluster version 3.8.9 
 
 The RMQ cluster should be on TLS and have a username/password
@@ -21,7 +20,6 @@ Create a publisher and consumer for the DATA queue
 Publish 100 messages to DATA queue  
 
 Aerospike:
-
 Install and configure 1 node Aerospike cluster community edition 
 
 The AS cluster should have a username/password
