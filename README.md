@@ -1,8 +1,8 @@
 # Task12
 
 RMQ:  
-Install and configure 1 node RMQ cluster version 3.8.9 
-The RMQ cluster should be on TLS and have a username/password
+Install and configure 1 node RMQ cluster version 3.8.9 \n
+The RMQ cluster should be on TLS and have a username/password 
 
 Data should be persisted on disk
 
